@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "archive 2",
+			"path": "../../.."
+		},
+		{
+			"name": "FFT-U-NET",
+			"path": "../../../../../FFT-U-NET"
+		}
+	],
+	"settings": {}
+}
